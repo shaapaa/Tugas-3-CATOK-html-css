@@ -60,19 +60,20 @@ body{
 }
 
 .home-content h1{
-  font-size: 56px;
+  font-size: 50px;
   font-weight: 700;
   line-height: 1.2;
 }
 
 .home-content h3{
-  font-size: 32px;
+  font-size: 20px;
   font-weight: 700;
-  color: #260231;
+  color: #b5a7c5;
 }
 
 .home-content p{
   font-size: 16px;
+   font-family: serif;
   margin: 20px 0 40px;
 }
 
@@ -88,7 +89,7 @@ body{
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 150px;
+  width: 200px;
   height: 100%;
   background: #735d81;
   border: 2px solid #250a33;
@@ -135,7 +136,7 @@ body{
 
 .home-sci{
   position: absolute;
-  bottom: 40px;
+  bottom: 30px;
   width: 170px;
   display: flex;
   justify-content: space-between;
@@ -188,7 +189,7 @@ body{
 }
 
 .gambar img {
-  width: 300px;
+  width: 250px;
   height: 300px;
-  border-radius: 50%;
+  border-radius: 55%;
 }
